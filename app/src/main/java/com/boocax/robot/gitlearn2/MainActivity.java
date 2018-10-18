@@ -9,5 +9,6 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+        //liuly0312 本地master提交 该段代码 至 remote master 001
     }
 }
